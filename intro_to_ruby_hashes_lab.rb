@@ -10,13 +10,21 @@ end
 
 def monopoly
 	monopoly = {
+<<<<<<< HEAD
 		railroads: {}
+=======
+		:railroads=>{}
+>>>>>>> b8774d34508822b5c928017942818f5c87c4e88b
 	}
 end
 
 def monopoly_with_second_tier
 		monopoly = {
+<<<<<<< HEAD
 			railroads: {
+=======
+			:railroads=>{
+>>>>>>> b8774d34508822b5c928017942818f5c87c4e88b
 				pieces: 4,
 				names: {},
 				rent_in_dollars: {}
